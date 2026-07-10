@@ -1,0 +1,18 @@
+{
+  "name": "순천 애니로드 AI 포즈 포토존",
+  "short_name": "애니로드 포토존",
+  "description": "AI 포즈 인식 기반 AR 캐릭터 포토존 PoC",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#110d19",
+  "theme_color": "#171222",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "./icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
